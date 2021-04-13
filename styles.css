@@ -1,0 +1,39 @@
+#main{
+    background-color:#EAEBED;
+  }
+  #img-div {
+    background-color:white;
+    width:80%;
+    margin:auto;
+  }
+  #img-caption, #footer{
+    padding-bottom:15px;
+  }
+  #title, #who-is-he, #img-caption, h3{
+    text-align:center;
+  }
+  h1 {
+    padding-top:20px;
+  }
+  h1, h3, p, li  {
+    color:#006989;
+  }
+  
+  img {
+    display:block;
+    margin:auto;
+    max-width:100%;
+    height:auto;
+    padding-top:30px;
+  }
+  
+  #tribute-info {
+    width:50%;
+    margin:auto;
+  }
+  
+  li {
+    padding:10px;
+  }
+  
+  
